@@ -1,0 +1,37 @@
+A new way to ditch the cable box: Streaming Internet apps
+
+When you shop for pay TV—whether it comes to your house via cable, satellite or a fiber-optic link—the price you see isn’t the price you pay, thanks to a raft of add-on fees traditionally led by a rental fee for a cable box.
+
+That receiver and its remote not only add to your expenses but compound the clutter around the TV. And its onscreen interface is often so clumsy that you can’t count on it showing your channels in high definition.
+
+But if you have a streaming-media player plugged into a TV or a “smart” TV with its own streaming apps, you may have new options for box-free viewing. Some pay-TV providers now offer apps for those platforms, while others have added video-output options to mobile apps that earlier limited you to viewing your channels on the smaller screen of a phone or tablet.
+
+That represents some progress, but it still falls miles short of what major cable and satellite operators pledged to deliver last summer, when they were trying to fend off a Federal Communications Commission proposal that would have required pay-TV providers to make free apps available to let subscribers watch programming on other devices without the need of a set-top box.
+
+Now that the FCC has dumped that idea, those firms have quietly dropped that “Ditch the Box” concept.
+
+Instead, here's what the seven biggest services now offer:
+
+• AT&T’s mobile apps still disable Chromecast and AirPlay wireless streaming to TVs, but the company now has a version of its U-verse app for Amazon’s Fire TV and Fire Stick streaming players. Its DirecTV app, meanwhile, includes a Web-browser version, so you could theoretically plug a laptop into a TV via HDMI or use the Chrome browser’s Chromecast support, if you’re willing to tie up a laptop for TV viewing.
+
+These apps probably won’t save you money, as AT&T doesn’t charge for the first four boxes in a house.  For completely box-free viewing from AT&T, you’ll have to sign up for its DirecTV Now streaming service.
+
+• Comcast has had an Xfinity TV app for Roku devices in a public beta test since January that includes not just the channels you pay for but also a cloud-hosted digital video recorder. It now plans to ship similar apps for recent Samsung and LG smart TVs by the end of the year and early next year, respectively.
+
+The catch: Once the beta ends, you’ll save only $2.50 per screen by using this app instead of a box.
+
+• Spectrum (you may know it as Time Warner Cable or Bright House Networks, the two cable firms Charter Communications bought in 2015) has since March offered an app for Roku players, Xbox One game consoles and 2012 and newer Samsung smart TVs that can spare you its $5.99 equipment fee. But you do need at least one traditional box in your home to use this.
+
+• Dish Network’s Dish Anywhere app now runs on Fire TV and Fire Stick players, so you can use that to replace the satellite service’s $7/a month boxes on secondary TVs at home.
+
+Like AT&T, Dish also offers an online-only service that runs only in apps, Sling TV.
+
+• Verizon has added AirPlay output to its iOS app, so Fios TV subscribers can use that with an Apple TV instead of paying $12 a month on a box for a second or third TV. Note, however, that the app confines watching DVR recordings to your iPhone or iPad, disabling AirPlay for that content. Its Android app, meanwhile, doesn’t support Chromecast output.
+
+(Disclosure: I also write for Yahoo Finance, a subsidiary of Verizon’s media division Oath.)  
+
+• Cox now offers apps for iOS and Android that don’t require you to have a cable box—but also disable Chromecast and AirPlay output. So watching TV on an actual TV will still cost $8.50 a month for its hardware.
+
+• Altice’s Optimum service now has apps for iOS and Android and Kindle Fire, but they, too, disable Chromecast and AirPlay. It also offers in-browser viewing—so you can run an HDMI cable to a TV in a pinch—but that requires Microsoft’s ancient and abandoned Silverlight plug-in. It charges $10 a month for a box.
+
+Rob Pegoraro is a tech writer based out of Washington, D.C. To submit a tech question, e-mail Rob at rob@robpegoraro.com. Follow him on Twitter at twitter.com/robpegoraro.
